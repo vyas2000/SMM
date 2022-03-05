@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SMM/static/css/main.83d986f3.css",
+    "main.js": "/SMM/static/js/main.5b1b6569.js",
+    "index.html": "/SMM/index.html",
+    "main.83d986f3.css.map": "/SMM/static/css/main.83d986f3.css.map",
+    "main.5b1b6569.js.map": "/SMM/static/js/main.5b1b6569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d986f3.css",
+    "static/js/main.5b1b6569.js"
+  ]
+}
